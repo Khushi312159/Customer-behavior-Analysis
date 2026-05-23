@@ -1,4 +1,4 @@
-# Customer-behavior-Analysis# Customer Shopping Behavior Analysis
+# Customer Shopping Behavior Analysis
 
 ## Project Overview
 This project analyzes customer shopping behavior using Python, SQL, PostgreSQL, and Power BI.
@@ -34,5 +34,5 @@ This project analyzes customer shopping behavior using Python, SQL, PostgreSQL, 
 - Targeted marketing
 
 ## Dashboard Preview
-(<img width="1305" height="726" alt="image" src="https://github.com/user-attachments/assets/e7a98b48-d114-46c7-97c2-6b1a6ddcb8cd" />
-)
+<img width="1305" height="726" alt="image" src="https://github.com/user-attachments/assets/e7a98b48-d114-46c7-97c2-6b1a6ddcb8cd" />
+
