@@ -34,5 +34,6 @@ This project analyzes customer shopping behavior using Python, SQL, PostgreSQL, 
 - Targeted marketing
 
 ## Dashboard Preview
-<img width="1305" height="726" alt="image" src="https://github.com/user-attachments/assets/e7a98b48-d114-46c7-97c2-6b1a6ddcb8cd" />
+<img width="1303" height="732" alt="image" src="https://github.com/user-attachments/assets/b88f764d-3a13-45e3-a480-7adbff040b7c" />
+
 
